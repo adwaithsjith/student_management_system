@@ -11,7 +11,7 @@ The **Student Management System (SMS)** is a DBMS micro-project designed for eff
 
 ### **Login System**
 - Secure login with predefined credentials:
-  - *Username*: ADMIN
+  - **Username**: ADMIN
   - **Password**: 1234
 - Error messages for incorrect credentials or empty fields.
 
