@@ -1,9 +1,9 @@
 ### README.md for Student Management System
 
 
-Student Management System 📚
+**Student Management System 📚**
 
-The Student Management System (SMS) is a DBMS micro-project designed for efficient management of student records. It combines a Python Tkinter-based graphical user interface with a MySQL database to offer robust and user-friendly functionalities.
+The **Student Management System (SMS)** is a DBMS micro-project designed for efficient management of student records. It combines a Python Tkinter-based graphical user interface with a MySQL database to offer robust and user-friendly functionalities.
 
 ---
 
@@ -11,8 +11,8 @@ The Student Management System (SMS) is a DBMS micro-project designed for efficie
 
 ### Login System
 - Secure login with predefined credentials:
-  - Username: ADMIN
-  - Password: 1234
+  - **Username**: ADMIN
+  - **Password**: 1234
 - Error messages for incorrect credentials or empty fields.
 
 ### Student Management Interface
