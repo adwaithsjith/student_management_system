@@ -3,19 +3,19 @@
 ```markdown
 Student Management System 📚
 
-The **Student Management System (SMS)** is a DBMS micro-project designed for efficient management of student records. It combines a Python Tkinter-based graphical user interface with a MySQL database to offer robust and user-friendly functionalities.
+The Student Management System (SMS) is a DBMS micro-project designed for efficient management of student records. It combines a Python Tkinter-based graphical user interface with a MySQL database to offer robust and user-friendly functionalities.
 
 ---
 
 ## Features ✨
 
-### **Login System**
+### Login System
 - Secure login with predefined credentials:
-  - **Username**: ADMIN
-  - **Password**: 1234
+  - Username: ADMIN
+  - Password: 1234
 - Error messages for incorrect credentials or empty fields.
 
-### **Student Management Interface**
+### Student Management Interface
 - **Add Student**: Add new student records with required details.
 - **Update Student**: Modify existing student information.
 - **Delete Student**: Remove student records securely.
