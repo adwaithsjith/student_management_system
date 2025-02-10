@@ -1,6 +1,6 @@
 ### README.md for Student Management System
 
-```markdown
+
 Student Management System 📚
 
 The Student Management System (SMS) is a DBMS micro-project designed for efficient management of student records. It combines a Python Tkinter-based graphical user interface with a MySQL database to offer robust and user-friendly functionalities.
